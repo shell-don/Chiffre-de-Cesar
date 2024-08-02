@@ -24,4 +24,4 @@ Entrez le Message à Déchiffrer :
 C"è💂※更ࢤฏጫ"ឨᮙᰞ∓⨗𐁏
 A æ💀‹ࢢญጩ ឦᮗᰜ∑⨕𐁍
 ```
-Remarque : certains caractère peuvent afficher un ? dans le terminal, cela signifie que le terminal ne peut pas le Représenter, en revanche il l'a bien Interpréter. 
+Remarque : certains caractères peuvent afficher un ? dans le terminal, cela signifie que le terminal ne peut pas les Représenter, en revanche il les a bien Interprété. 
