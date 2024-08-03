@@ -25,3 +25,4 @@ C"è💂※更ࢤฏጫ"ឨᮙᰞ∓⨗𐁏
 A æ💀‹ࢢญጩ ឦᮗᰜ∑⨕𐁍
 ```
 Remarque : certains caractères peuvent afficher un ? dans le terminal, cela signifie que le terminal ne peut pas les Représenter, en revanche il les a bien Interprété. 
+Ce chiffre peut être briser par une analyse de fréquence.
