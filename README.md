@@ -1,10 +1,10 @@
 # Chiffre de César
-Un Chiffre de César universel. Ce dernier Interprète les caractères en hexadécimal (A vaut 0x0041) et les Représentes sous formes de symbole ('A' est la représentation du point de code 65). L'avantage est qu'avec cette interprétation par l'ordinateur le chiffre peut prendre en compte TOUT les caractères définit par Unicode. 
+Un Chiffre de César universel. Ce dernier Interprète les caractères en hexadécimal (A vaut 0x0041) et les Représentes sous forme de symboles ('A' est la représentation du point de code 65). L'avantage est qu'avec cette interprétation par l'ordinateur le chiffre peut prendre en compte TOUT les caractères définit par Unicode. 
    
 ## Installation
 
 ```zsh
-gcc -o programme César.c
+gcc -o César César.c
 ```
 ## Usage
 Lors de l'ouverture de l'exécutable ce message s'affiche :
@@ -25,4 +25,4 @@ C"è💂※更ࢤฏጫ"ឨᮙᰞ∓⨗𐁏
 A æ💀‹ࢢญጩ ឦᮗᰜ∑⨕𐁍
 ```
 Remarque : certains caractères peuvent afficher un ? dans le terminal, cela signifie que le terminal ne peut pas les Représenter, en revanche il les a bien Interprété. 
-Ce chiffre peut être briser par une analyse de fréquence.
+Ce chiffre peut être brisé par une analyse de fréquence.
