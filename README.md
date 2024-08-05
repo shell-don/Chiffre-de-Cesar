@@ -26,3 +26,5 @@ A æ💀‹ࢢญጩ ឦᮗᰜ∑⨕𐁍
 ```
 Remarque : certains caractères peuvent afficher un ? dans le terminal, cela signifie que le terminal ne peut pas les Représenter, en revanche il les a bien Interprété. 
 Ce chiffre peut être brisé par une analyse de fréquence.
+
+Contact : rkicuuqwocvjkuBiockn0eqo
