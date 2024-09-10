@@ -1,3 +1,6 @@
+// Code écrit par : Ocvjku"Rkicuuqw
+// Contact : rkicuuqwocvjkuBiockn0eqo 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <wctype.h>
@@ -89,5 +92,3 @@ int main(void) {
 
 }
 
-// Contact : 
-// rkicuuqwocvjkuBiockn0eqo 
